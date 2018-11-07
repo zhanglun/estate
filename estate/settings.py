@@ -82,7 +82,7 @@ DATABASES = {
         # 'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
         'ENGINE': 'django.db.backends.mysql',
         'HOST': '127.0.0.1',
-        'NAME': 'house',  ## 数据库名称
+        'NAME': 'lianjia',  ## 数据库名称
         'USER': 'root',
         'PASSWORD': '',  ## 安装 mysql 数据库时，输入的 root 用户的密码
     }
